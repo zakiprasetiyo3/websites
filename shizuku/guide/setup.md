@@ -14,7 +14,8 @@ System settings - "Security" - "Secure app spawning" may need to be disabled.
 
 :::
 
-### Start with root
+### Start with root android 13
+
 
 For rooted devices, just start directly.
 
